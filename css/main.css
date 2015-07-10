@@ -1,0 +1,35 @@
+.my_img {
+	margin-left:auto;
+	margin-right:auto;
+	display: block;
+}
+
+
+.car {
+
+opacity:0;
+
+-moz-transition: opacity 2s; /* Firefox 4 */
+
+-webkit-transition: opacity 2s; /* Safari and Chrome */
+
+-o-transition: opacity 2s;
+
+transition: opacity 2s;
+
+}​}
+
+.trim-buttons {
+	position: left;
+}
+
+.left-mine {float: left; text-decoration: none; padding: 5px; list-style-type: none} 
+
+.logo {
+	background-image: url(../logo.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: block;
+	height: 46px;
+	width: 45px;
+}
